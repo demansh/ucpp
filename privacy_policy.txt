@@ -1,0 +1,28 @@
+Privacy Policy for Unit Converter
+Effective Date: December 4, 2024
+
+1. Introduction
+Unit Converter is committed to protecting your privacy. We do not collect, store, or process any personal data through the app. However, users should be aware that Google may collect certain data while using this app, as it is distributed through the Google Play Store.
+
+2. Data Collected by Google
+While Unit Converter itself does not collect any data, Google may automatically collect certain information for app functionality, analytics, and security. This may include:
+- Device Information: Device model, operating system version, and unique device identifiers.
+- App Usage Data: Information on app installs, uninstalls, and interactions.
+- Location Data: Approximate or precise location if enabled on the device.
+- Crash and Performance Data: Information related to app crashes and performance issues.
+- Google Account Information: Data linked to the Google account used on the device.
+- For more details on data collection by Google, please refer to the Google Privacy Policy.
+
+3. Third-Party Services
+Unit Converter does not integrate any third-party services that collect or process user data.
+
+4. User Control and Options
+Users can manage or limit the data collected by Google by adjusting their device settings or Google account privacy settings.
+- Ad Personalization: Adjust settings at Google Ads Settings.
+- Location Sharing: Manage location permissions in device settings.
+
+5. Changes to This Privacy Policy
+We may update this Privacy Policy periodically. Any changes will be reflected here with an updated effective date.
+
+6. Contact Us
+If you have any questions about this Privacy Policy, please contact us at demansh17@gmail.com
